@@ -1,2 +1,1 @@
-# Udacity-DAND-p2
-The second project of Udacity DAND program.
+In this project, I will analize US 2016 bike share activity
